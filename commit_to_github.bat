@@ -3,7 +3,7 @@ setlocal
 
 call :header
 call :load_env
-:: ada
+:: adaasdf
 if "%GITHUB_TOKEN%"=="" (
     echo GITHUB_TOKEN is not set. Please check the env file.
     pause
