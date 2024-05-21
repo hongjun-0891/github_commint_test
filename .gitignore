@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But track these files
+!.gitignore
+!commit_to_github.bat
